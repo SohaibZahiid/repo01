@@ -11,7 +11,9 @@
    1.6. Crear un repositorio en GitHub **repo01**  
    ![Error al cargar la img](./img/Captura5.PNG "creamos un repositorio en GitHub")  
    1.7. Conectar **repo01** local a repositorio **repo01** GitHub  
-   ![Error al cargar la img](./img/Captura6.PNG "onectamos repositorio")  
+   ![Error al cargar la img](./img/Captura6.PNG "Conectamos repositorio")  
    1.8. `git push -u origin main`: Subir los cambios a GitHub  
-   ![Error al cargar la img](./img/Captura7.PNG "onectamos repositorio")  
-   1.9. 
+   ![Error al cargar la img](./img/Captura7.PNG "Subimos ficheros a repositorio de GitHub")  
+   1.9. En repositorio GitHub podemos ver los ficheros  
+   ![Error al cargar la img](./img/Captura8.PNG "Repositorio en GitHub")
+
